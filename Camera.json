@@ -1,63 +1,101 @@
 {
-  "brands": [
+  "cameraManufacturers": [
     {
-      "name": "Sony",
-      "models": [
+      "name": "Sony Corporation",
+      "brands": [
         {
-          "name": "Alpha a7 III",
-          "type": "Mirrorless",
-          "sensor": "Full Frame",
-          "megapixels": 24.2,
-          "price": 1999.99,
-          "features": [
-            "In-body stabilization",
-            "4K video recording"
-          ]
-        },
-        {
-          "name": "RX100 VII",
-          "type": "Compact",
-          "sensor": "1-inch",
-          "megapixels": 20.1,
-          "price": 1299.99,
-          "features": [
-            "Fast autofocus",
-            "Flip screen"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Nikon",
-      "models": [
-        {
-          "name": "D850",
-          "type": "DSLR",
-          "sensor": "Full Frame",
-          "megapixels": 45.7,
-          "price": 2799.99,
-          "features": [
-            "High resolution",
-            "Dual card slots"
+          "name": "Sony",
+          "models": [
+            {
+              "name": "Alpha A1",
+              "type": "Mirrorless",
+              "sensor": "Full Frame",
+              "megapixels": 50.1,
+              "price": 6499.99,
+              "features": [
+                {
+                  "name": "Auto Focus",
+                  "details": {
+                    "description": "Fast and accurate autofocus",
+                    "ratings": [
+                      {
+                        "user": "JohnDoe",
+                        "score": 4.5,
+                        "comment": "Amazing autofocus performance"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
           ]
         }
       ]
     },
     {
-      "name": "Canon",
-      "models": [
+      "name": "Canon Inc.",
+      "brands": [
         {
-          "name": "EOS R6",
-          "type": "Mirrorless",
-          "sensor": "Full Frame",
-          "megapixels": 20.1,
-          "price": 2499.99,
-          "features": [
-            "In-body stabilization",
-            "High-speed shooting"
+          "name": "Canon",
+          "models": [
+            {
+              "name": "EOS R5",
+              "type": "Mirrorless",
+              "sensor": "Full Frame",
+              "megapixels": 45.0,
+              "price": 3899.99,
+              "features": [
+                {
+                  "name": "Image Stabilization",
+                  "details": {
+                    "description": "5-axis in-body stabilization",
+                    "ratings": [
+                      {
+                        "user": "JaneDoe",
+                        "score": 4.7,
+                        "comment": "Smooth and steady shots"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nikon Corporation",
+      "brands": [
+        {
+          "name": "Nikon",
+          "models": [
+            {
+              "name": "D850",
+              "type": "DSLR",
+              "sensor": "Full Frame",
+              "megapixels": 45.7,
+              "price": 2999.99,
+              "features": [
+                {
+                  "name": "High Resolution",
+                  "details": {
+                    "description": "Incredible detail and sharpness",
+                    "ratings": [
+                      {
+                        "user": "AlexDoe",
+                        "score": 4.8,
+                        "comment": "Crisp and clear images"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
           ]
         }
       ]
     }
   ]
 }
+
