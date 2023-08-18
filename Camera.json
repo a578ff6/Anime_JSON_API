@@ -1,61 +1,64 @@
 {
-  "brands": {
-    "Sony": {
+  "brands": [
+    {
       "name": "Sony",
       "models": [
         {
-          "model": "A7 III",
+          "name": "Alpha a7 III",
           "type": "Mirrorless",
-          "specs": {
-            "sensor": "Full Frame",
-            "megapixels": 24.2,
-            "features": [
-              {
-                "name": "In-body stabilization",
-                "description": "5-axis image stabilization"
-              }
-            ]
-          }
+          "sensor": "Full Frame",
+          "megapixels": 24.2,
+          "price": 1999.99,
+          "features": [
+            "In-body stabilization",
+            "4K video recording"
+          ]
+        },
+        {
+          "name": "RX100 VII",
+          "type": "Compact",
+          "sensor": "1-inch",
+          "megapixels": 20.1,
+          "price": 1299.99,
+          "features": [
+            "Fast autofocus",
+            "Flip screen"
+          ]
         }
       ]
     },
-    "Nikon": {
+    {
       "name": "Nikon",
       "models": [
         {
-          "model": "D850",
+          "name": "D850",
           "type": "DSLR",
-          "specs": {
-            "sensor": "Full Frame",
-            "megapixels": 45.7,
-            "features": [
-              {
-                "name": "Weather sealing",
-                "description": "Protection against dust and moisture"
-              }
-            ]
-          }
+          "sensor": "Full Frame",
+          "megapixels": 45.7,
+          "price": 2799.99,
+          "features": [
+            "High resolution",
+            "Dual card slots"
+          ]
         }
       ]
     },
-    "Canon": {
+    {
       "name": "Canon",
       "models": [
         {
-          "model": "EOS R6",
+          "name": "EOS R6",
           "type": "Mirrorless",
-          "specs": {
-            "sensor": "Full Frame",
-            "megapixels": 20.1,
-            "features": [
-              {
-                "name": "Dual Pixel autofocus",
-                "description": "Fast and accurate focusing system"
-              }
-            ]
-          }
+          "sensor": "Full Frame",
+          "megapixels": 20.1,
+          "price": 2499.99,
+          "features": [
+            "In-body stabilization",
+            "High-speed shooting"
+          ]
         }
       ]
     }
-  }
+  ]
 }
+
