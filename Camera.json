@@ -1,0 +1,61 @@
+{
+  "brands": {
+    "Sony": {
+      "name": "Sony",
+      "models": [
+        {
+          "model": "A7 III",
+          "type": "Mirrorless",
+          "specs": {
+            "sensor": "Full Frame",
+            "megapixels": 24.2,
+            "features": [
+              {
+                "name": "In-body stabilization",
+                "description": "5-axis image stabilization"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Nikon": {
+      "name": "Nikon",
+      "models": [
+        {
+          "model": "D850",
+          "type": "DSLR",
+          "specs": {
+            "sensor": "Full Frame",
+            "megapixels": 45.7,
+            "features": [
+              {
+                "name": "Weather sealing",
+                "description": "Protection against dust and moisture"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Canon": {
+      "name": "Canon",
+      "models": [
+        {
+          "model": "EOS R6",
+          "type": "Mirrorless",
+          "specs": {
+            "sensor": "Full Frame",
+            "megapixels": 20.1,
+            "features": [
+              {
+                "name": "Dual Pixel autofocus",
+                "description": "Fast and accurate focusing system"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
