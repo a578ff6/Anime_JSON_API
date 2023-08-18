@@ -1,0 +1,70 @@
+{
+    "author": "金庸",
+    "totalWorks": 17,
+    "novels": [
+        {
+            "title": "射鵰英雄傳",
+            "releaseYear": 1957,
+            "genre": "武俠",
+            "chapters": 40,
+            "rating": 9.6,
+            "plot": "故事描述宋朝末年，中原武林的爭鬥和江湖恩怨。",
+            "mainCharacters": [
+                "郭靖",
+                "黃蓉"
+            ]
+        },
+        {
+            "title": "神鵰俠侶",
+            "releaseYear": 1959,
+            "genre": "武俠",
+            "chapters": 40,
+            "rating": 9.5,
+            "plot": "描述主人公楊過自小經歷苦難，最終成長為一代俠義英雄的故事。",
+            "mainCharacters": [
+                "楊過",
+                "小龍女"
+            ]
+        },
+        {
+            "title": "倚天屠龍記",
+            "releaseYear": 1961,
+            "genre": "武俠",
+            "chapters": 50,
+            "rating": 9.4,
+            "plot": "描述明朝末年，武林三大門派的掌門人為了一部武林絕學而引發的一系列事件。",
+            "mainCharacters": [
+                "張無忌",
+                "趙敏",
+                "周芷若"
+            ]
+        },
+        {
+            "title": "笑傲江湖",
+            "releaseYear": 1967,
+            "genre": "武俠",
+            "chapters": 20,
+            "rating": 9.4,
+            "plot": "敘述主人公令狐沖在江湖中的冒險和愛情故事。",
+            "mainCharacters": [
+                "令狐沖",
+                "任盈盈"
+            ]
+        },
+        {
+            "title": "天龍八部",
+            "releaseYear": 1963,
+            "genre": "武俠",
+            "chapters": 50,
+            "rating": 9.5,
+            "plot": "描述主人公段譽、虛竹、慕容復、喬峰三人的江湖經歷和情感糾葛。",
+            "mainCharacters": [
+                "段譽",
+                "虛竹",
+                "慕容復",
+                "喬峰"
+            ]
+        }
+    ],
+    "averageRating": 9.5
+}
