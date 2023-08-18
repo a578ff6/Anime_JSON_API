@@ -1,22 +1,138 @@
 [
-  "龍珠",
-  "海賊王",
-  "火影忍者",
-  "死神",
-  "進擊的巨人",
-  "全職獵人",
-  "刀劍神域",
-  "我的英雄學院",
-  "鬼滅之刃",
-  "鋼之鍊金術師",
-  "命運石之門",
-  "柯南",
-  "哆啦A夢",
-  "新世紀福音戰士",
-  "卡通小子",
-  "美少女戰士",
-  "數碼寶貝",
-  "黑執事",
-  "一拳超人",
-  "哥布林殺手"
+  {
+    "title": "ONE PIECE",
+    "release_year": "1997年",
+    "author": "尾田榮一郎",
+    "original_language": "日語",
+    "sales_volume": "5億1600萬[1]",
+    "description": "《ONE PIECE》是一部以海盜為主題的漫畫，描述主角路飛的冒險故事。",
+    "genre": "冒險, 動作, 喜劇"
+  },
+  {
+    "title": "X戰警",
+    "release_year": "1963年",
+    "author": "史丹·李（原作）傑克·科比（作畫）",
+    "original_language": "英語",
+    "sales_volume": "5億[2]",
+    "description": "《X戰警》是一部描述突變人的超能力和冒險的漫畫。",
+    "genre": "超能力, 動作, 科幻"
+  },
+  {
+    "title": "花生漫畫",
+    "release_year": "1950年",
+    "author": "查爾斯·舒茲",
+    "original_language": "英語",
+    "sales_volume": "4億[3]",
+    "description": "《花生漫畫》是一部描繪查理·布朗和他的狗史努比的日常生活的漫畫。",
+    "genre": "喜劇, 日常"
+  },
+  {
+    "title": "阿斯泰利克斯歷險記",
+    "release_year": "1959年",
+    "author": "勒內·戈西尼（原作）阿爾伯特·優德佐（作畫）",
+    "original_language": "法語",
+    "sales_volume": "3億5200萬[4]",
+    "description": "漫畫主要採用法式幽默。利用神奇的藥水可以造成許多喜劇情節，比如村民經常可以非常輕鬆地把一支羅馬軍隊打上天，奧貝利克斯無聊時就在樹林裡抓野豬和羅馬人解悶。",
+    "genre": "喜劇, 冒險"
+  },
+  {
+    "title": "丁丁歷險記",
+    "release_year": "1929年",
+    "author": "艾爾吉",
+    "original_language": "法語",
+    "sales_volume": "3億5000萬[5]",
+    "description": "《丁丁歷險記》系列漫畫故事情節豐富，既有偵探故事、秘境探險，更有像是登陸月球等在當時看上去不可思議的科幻內容。",
+    "genre": "偵探, 冒險"
+  },
+  {
+    "title": "哆啦A夢",
+    "release_year": "1969年",
+    "author": "藤子·F·不二雄",
+    "original_language": "日語",
+    "sales_volume": "3億[6]",
+    "description": "本作主要敘述一隻來自22世紀的貓型機器人——哆啦A夢，受原本主人野比世修的請託從未來回到現代，幫助他高祖父野比大雄的故事。作品中亦有滲入當時社會問題",
+    "genre": "喜劇, 科幻, 兒童"
+  },
+  {
+    "title": "骷髏13",
+    "release_year": "1969年",
+    "author": "齊藤隆夫",
+    "original_language": "日語",
+    "sales_volume": "3億[7]",
+    "description": "是日本漫畫家齊藤隆夫的作品，主角為擁有超一流狙擊能力的殺手Golgo 13。",
+    "genre": "青年漫畫, 社會寫實"
+  },
+  {
+    "title": "幸運的路克",
+    "release_year": "1947年",
+    "author": "莫里斯",
+    "original_language": "法語",
+    "sales_volume": "3億[8]",
+    "description": "這部漫畫發生在美國西部，故事的主人公叫路克，他是一名有點憨直的流浪牛仔。這位孤獨的牛仔，總是一個人浪跡天涯，喜歡行俠仗義，鋤強扶弱。",
+    "genre": "冒險"
+  },
+  {
+    "title": "七龍珠",
+    "release_year": "1984年",
+    "author": "鳥山明",
+    "original_language": "日語",
+    "sales_volume": "2億6000萬[9]",
+    "description": "世界上有七顆「龍珠」散佈在各地，只要集齊七龍珠可以召喚出神龍實現願望。",
+    "genre": "少年漫畫, 冒險, 格鬥, 搞笑"
+  },
+  {
+    "title": "火影忍者",
+    "release_year": "1999年",
+    "author": "岸本齊史",
+    "original_language": "日語",
+    "sales_volume": "2億5000萬[9]",
+    "description": "講述忍者世界裡圍繞著身為對手的漩渦鳴人與宇智波佐助兩人，與其他角色的經歷。",
+    "genre": "少年漫畫, 忍者, 戰鬥"
+  },
+  {
+    "title": "名偵探柯南",
+    "release_year": "1994年",
+    "author": "青山剛昌",
+    "original_language": "日語",
+    "sales_volume": "2億5000萬[7]",
+    "description": "描述高中生偵探工藤新一被黑暗組織灌下神秘藥物導致自己縮小後，試圖調查該組織以及破獲其他各種案件找出讓自己能夠恢復原狀的解藥的故事。",
+    "genre": "偵探, 推理, 動作, 懸疑, 戀愛"
+  },
+  {
+    "title": "美國隊長",
+    "release_year": "1941年",
+    "author": "喬·西蒙、傑克·科比",
+    "original_language": "英語",
+    "sales_volume": "2億1000萬[10]",
+    "description": "美國隊長經常被視為美國的愛國精神的象徵，當初只是作為為美國提升國家形象和宣傳的用途，漫威漫畫後來在1964年創作了一支超級英雄英雄團隊復仇者聯盟。",
+    "genre": "科幻, 動作"
+  },
+  {
+    "title": "守護者",
+    "release_year": "1986年",
+    "author": "艾倫·摩爾（原作）大衛·吉布魯斯（作畫）約翰·希金斯（上色）",
+    "original_language": "英語",
+    "sales_volume": "2億[11]",
+    "description": "守護者》的故事源自於艾倫·摩爾向DC漫畫提議的構想，原本採用的是DC漫畫先前收購自查爾頓漫畫公司（Charlton Comics）旗下的超級英雄人物。",
+    "genre": "美國犯罪, 動作, 劇情"
+  },
+  {
+    "title": "超人",
+    "release_year": "1938年",
+    "author": "傑瑞·西格爾、喬·舒斯特",
+    "original_language": "英語",
+    "sales_volume": "2億[12]",
+    "description": "超人是一個來自外星球的來客，有著外星人的血統和拯救人類的使命和力量。超人被認為是最典型的美國神話。",
+    "genre": "超級英雄, 冒險"
+  },
+  {
+    "title": "怪醫黑傑克",
+    "release_year": "1973年",
+    "author": "手塚治虫",
+    "original_language": "日語",
+    "sales_volume": "1億7600萬[6]",
+    "description": "天才外科醫師黑傑克（BLACK JACK），以高超的外科手術技巧聞名，然而他是個密醫，不但沒有醫師執照，而且總是向患者索取高額手術費，使他在醫學界惡名昭彰。",
+    "genre": "醫學, 少年漫畫"
+  }
 ]
+
