@@ -1,34 +1,49 @@
 [
   {
-    "title": "[問卦] 你們發廢文的靈感都哪來的",
+    "title": {
+      "type": "問卦",
+      "content": "你們發廢文的靈感都哪來的"
+    },
     "author": "indoman",
     "date": "2023-08-18",
     "recommend": 3,
     "link": "https://www.ptt.cc/bbs/Gossiping/M.1692363774.A.9D9.html"
   },
   {
-    "title": "Re: [新聞] 獨家》北檢起訴書「未曝光版」首次公開",
+    "title": {
+      "type": "新聞",
+      "content": "獨家》北檢起訴書「未曝光版」首次公開"
+    },
     "author": "medama",
     "date": "2023-08-18",
     "recommend": 0,
     "link": "https://www.ptt.cc/bbs/Gossiping/M.1692363828.A.AF4.html"
   },
   {
-    "title": "Re: [問卦] 你們發廢文的靈感都哪來的",
+    "title": {
+      "type": "問卦",
+      "content": "你們發廢文的靈感都哪來的"
+    },
     "author": "lovetaiwan",
     "date": "2023-08-18",
     "recommend": 1,
     "link": "https://www.ptt.cc/bbs/Gossiping/M.1692363825.A.9D8.html"
   },
   {
-    "title": "Re: [問卦] 起司什麼口味最好吃",
+    "title": {
+      "type": "問卦",
+      "content": "起司什麼口味最好吃"
+    },
     "author": "DRAGONICE",
     "date": "2023-08-18",
     "recommend": 1,
     "link": "https://www.ptt.cc/bbs/Gossiping/M.1692363822.A.D0D.html"
   },
   {
-    "title": "[問卦] 長高為何要睡足八小時呀",
+    "title": {
+      "type": "問卦",
+      "content": "長高為何要睡足八小時呀"
+    },
     "author": "passing",
     "date": "2023-08-18",
     "recommend": 3,
